@@ -4,7 +4,8 @@ autoload -Uz compinit && compinit
 
 installera oh-my-zsh (theme = amuse)
 
-##Aliases  
+##Aliases
+
 alias upc="~/path/to/apps/docker/./upc"  
 alias ez="vim ~/.zshrc"  
 alias sz="source ~/.zshrc"  
